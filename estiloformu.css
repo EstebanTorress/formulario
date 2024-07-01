@@ -1,0 +1,53 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.encabezado{
+    margin: 2%;
+    text-align: center;
+    padding: 3%;
+    background-color: #aee239;
+    border-radius: 20px;
+}
+.links{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 39%;
+    margin: -25px 0 0 -25px;
+    padding: 2%;
+    display: flex;
+    background-color: #f9f2e7;
+    text-decoration: none;
+    margin: 2%;
+    width: 10%;
+    border-radius: 20px;
+    
+    
+}
+
+body{
+    background-color: #8fbe00;
+}
+.formulario{
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background-color: #f9f2e7;
+    border-radius: 10px;
+}
+.caja{
+    border-radius: 50%;
+}
+.comentarioo{
+        background-color: #ffd1b3;
+        border-radius: 10px;
+        padding: 10px;
+        margin: 10px;
+        width: 45%;
+    }
+.link{
+    text-decoration: none;
+}
+.img{
+    width: 25px;
+}
